@@ -144,7 +144,7 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
 @media screen and (min-width: 990px) {
 
   #shopify-section-template--16468659404982__featured_collection_nkqfAQ .color-background-1{
-    background: url("https://cdn.shopify.com/s/files/1/0628/2081/0934/files/Slice_1.png?v=1705383775") !important;
+    background-image: url("https://cdn.shopify.com/s/files/1/0628/2081/0934/files/Slice_1.png?v=1705383775") !important;
     background-position: top;
     background-size: auto !important;
     background-repeat: no-repeat !important;
